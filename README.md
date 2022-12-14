@@ -56,5 +56,5 @@ This Project was carried out between I and my partner as part of our **Full Stac
 
 
 ## Author
-* Patrick Christopher(https://github.com/Patoctd4real)
-* Bakare Muideen Adeleke(https://github.com/adeleke123)
+* [Patrick Christopher](https://github.com/Patoctd4real)
+* [Bakare Muideen Adeleke](https://github.com/adeleke123)
