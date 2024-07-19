@@ -1626,9 +1626,8 @@ alex@/tmp/binary_trees$
 - GitHub repository: `binary_trees`
 - File: `103-binary_tree_rotate_left.c`
 
-23. Rotate right
-#advanced
-Score: 50.0% (Checks completed: 100.0%)
+### 23. Rotate right            #advanced
+
 Write a function that performs a right-rotation on a binary tree
 
 - Prototype: `binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree);`
